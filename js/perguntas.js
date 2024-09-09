@@ -90,35 +90,17 @@ export const perguntas = [
                 texto: "Deveria desliga-lo para economizar um pouco de energia e aproveitar o clima natural.",
                 afirmacao: [
                     "Pensando no própio consumo, você salvou um pouco do planeta para que as próximas gerações possam viver.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "você tem consciência de que a energia do mundo não é 100% renovável e devemos economizá-la."
                 ],
-                proxima: 5,
             },
             {
                 texto: "Vou deixar ligado, se eu tenho vou usar mesmo.",
                 afirmacao: [
                     "Você pensa em si mesmo e não no impacto do meio ambiente, sendo assim, não aproveita o que a natureza pode te oferecer e impede as futuras gerações também.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "você é irresponsável e além de gastar mais energia do que deve, ainda não aproveita a brisa natural que o meio ambiente de proporciona."
                 ],
-                proxima: 5,
             },
         ]
     },
     {
-        enunciado: "Novas tecnologias trazem novos desafios, por isso após a elaboração do trabalho escrito, a professora realizou um debate entre a turma para entender como foi realizada a pesquisa e escrita. Nessa conversa também foi levantado um ponto muito importante: como a IA impacta o trabalho do futuro. Nesse debate, como você se posiciona?",
-        alternativas: [
-            {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
-                afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
-                ],
-            
-            },
-            {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
-                afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
-                ],
              
